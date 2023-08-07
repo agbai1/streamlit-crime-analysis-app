@@ -1,6 +1,6 @@
 # **A Data Science Journey: Analyzing Crime and Incarceration Trends by State from 2001 to 2016**
 
-**Authors**: Eke Agbai, Brianna King, Dorothy Oteng, Juliet Kuruvilla   Aug 5, 2023
+**Authors**: Eke Agbai, Brianna King, Dorothy Oteng, Juliet Kuruvilla &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Aug 5, 2023
 
 **EXECUTIVE SUMMARY**
 
